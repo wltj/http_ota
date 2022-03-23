@@ -18,6 +18,7 @@ int main(void)
     rt_kprintf("THE second commit\n");
     rt_kprintf("THE thread commit\n");
     rt_kprintf("THE four commit\n");
+    rt_kprintf("THE five commit\n");
     while (count++)
     {
 

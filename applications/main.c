@@ -17,6 +17,7 @@ int main(void)
     rt_kprintf("APP_VERSION is %s\n",APP_VERSION);
     rt_kprintf("THE second commit\n");
     rt_kprintf("THE thread commit\n");
+    rt_kprintf("THE four commit\n");
     while (count++)
     {
 

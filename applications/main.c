@@ -15,6 +15,7 @@ int main(void)
 
     rt_pin_mode(LED0, PIN_MODE_OUTPUT);
     rt_kprintf("APP_VERSION is %s\n",APP_VERSION);
+    rt_kprintf("THE second commit\n");
     while (count++)
     {
 
